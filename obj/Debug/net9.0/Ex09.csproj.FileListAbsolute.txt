@@ -1,0 +1,14 @@
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\bin\Debug\net9.0\Ex09.exe
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\bin\Debug\net9.0\Ex09.deps.json
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\bin\Debug\net9.0\Ex09.runtimeconfig.json
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\bin\Debug\net9.0\Ex09.dll
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\bin\Debug\net9.0\Ex09.pdb
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\obj\Debug\net9.0\Ex09.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\obj\Debug\net9.0\Ex09.AssemblyInfoInputs.cache
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\obj\Debug\net9.0\Ex09.AssemblyInfo.cs
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\obj\Debug\net9.0\Ex09.csproj.CoreCompileInputs.cache
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\obj\Debug\net9.0\Ex09.dll
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\obj\Debug\net9.0\refint\Ex09.dll
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\obj\Debug\net9.0\Ex09.pdb
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\obj\Debug\net9.0\Ex09.genruntimeconfig.cache
+D:\01 - Projetos\OrientadoAObjeto\Exercicios\Ex09\obj\Debug\net9.0\ref\Ex09.dll
